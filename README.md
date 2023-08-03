@@ -1,1 +1,1 @@
-# Logistic-Regression-Algorithm
+# Logistic-Regression
